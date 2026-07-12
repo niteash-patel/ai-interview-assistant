@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+question.mp3
+.DS_Store
